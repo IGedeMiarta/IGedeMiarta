@@ -25,7 +25,7 @@
   </div>
   <div class="column" syle="width:50%">
     <p align="center">
-      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta" width="300px" />
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta" width="400px" />
     </p>
   </div>
 </div> 
