@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/igede-miarta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igede-miarta" height="30" width="40" /></a>
 <a href="https://fb.com/miarta.yaza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miarta.yaza" height="30" width="40" /></a>
-<a href="https://instagram.com/@mrt.ys_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrt.ys_" height="30" width="40" /></a>
+<a href="https://instagram.com/@mrt.ys_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrt.ys_" height="30" width="40" /></a> 
 </p>
 <div class="row">
   <div class="column" syle="width:50%">
