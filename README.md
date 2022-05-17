@@ -18,6 +18,6 @@
 <a href="https://instagram.com/@mrt.ys_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mrt.ys_" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igedemiarta&show_icons=true&locale=en&layout=compact" alt="igedemiarta" width="150px" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igedemiarta&show_icons=true&locale=en&layout=compact" alt="igedemiarta" width="350px" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta" width="150px" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta" width="350px" /></p>
