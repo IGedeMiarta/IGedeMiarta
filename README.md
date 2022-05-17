@@ -17,7 +17,17 @@
 <a href="https://fb.com/miarta.yaza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miarta.yaza" height="30" width="40" /></a>
 <a href="https://instagram.com/@mrt.ys_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mrt.ys_" height="30" width="40" /></a>
 </p>
+<div class="row">
+  <div class="column" syle="width:50%">
+      <p align="center">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igedemiarta&show_icons=true&locale=en&layout=compact" alt="igedemiarta">
+      </p>
+  </div>
+  <div class="column" syle="width:50%">
+    <p align="center">
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta"  />
+    </p>
+  </div>
+</div> 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igedemiarta&show_icons=true&locale=en&layout=compact" alt="igedemiarta"></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta"  /></p>
