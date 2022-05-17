@@ -20,12 +20,12 @@
 <div class="row">
   <div class="column" syle="width:50%">
       <p align="center">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igedemiarta&show_icons=true&locale=en&layout=compact" alt="igedemiarta" max-width="300px">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igedemiarta&show_icons=true&locale=en&layout=compact" alt="igedemiarta" width="300px">
       </p>
   </div>
   <div class="column" syle="width:50%">
     <p align="center">
-      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta" max-width="300px" />
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta" width="300px" />
     </p>
   </div>
 </div> 
