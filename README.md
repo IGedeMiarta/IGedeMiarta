@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for 
 - Developing a **TALL stack**-based project to streamline business operations.
 
 ### 🚀 Some of my recent projects:
-- [Project 1: **sewamobilbali.co.id**](https://github.com/IGedeMiarta/sewamobilbali)
-- [Project 2: **siabsensi.com**](https://github.com/IGedeMiarta/siabsensi)
-- [Project 3: **baliexperience.co.id**](https://github.com/IGedeMiarta/baliexperience)
+- [Project 1: **sewamobilbali.co.id**](https:sewamobilbali.co.id)
+- [Project 2: **siabsensi.com**](https://siabsensi.com)
+- [Project 3: **baliexperience.co.id**](https:///baliexperience.co.id)
 
 ### 📈 GitHub Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=IGedeMiarta&show_icons=true&hide_title=true&count_private=true&hide=prs)
