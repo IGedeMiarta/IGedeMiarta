@@ -1,33 +1,29 @@
-<h1 align="center">Hi 👋, I'm IGedeMiarta</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+# Hi there! I'm I Gede Miarta Yasa 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IGedeMiarta&label=Profile%20views&color=0e75b6&style=flat" alt="igedemiarta" /> </p>
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for building scalable, efficient, and user-friendly applications. I specialize in **Laravel**, **JavaScript**, and **TypeScript**, with a deep interest in **API development**, **backend architecture**, and **frontend design**.
 
-- 🌱 I’m currently learning **React, Vue, Node, Exspress, Mongodb**
+### 🧑‍💻 Technologies & Tools:
+- **Frontend**: HTML, CSS, **Tailwind CSS**, **Alpine.js**, **Vue.js**, **React.js**, **Next.js**
+- **Backend**: **Laravel**, **PHP**, **Node.js**
+- **Database**: **MySQL**, **PostgreSQL**, **SQLite**
+- **Version Control**: **Git**, **GitHub**
+- **Cloud & Hosting**: **AWS**, **Heroku**, **Netlify**
 
-- 👨‍💻 All of my projects are available at [https://igedemiarta.github.io/](https://igedemiarta.github.io/)
+### 🌱 What I'm currently working on:
+- Contributing to open-source projects in the **Laravel** and **JavaScript** ecosystems.
+- Improving my skills in **Next.js** and **TypeScript**.
+- Developing a **TALL stack**-based project to streamline business operations.
 
-- 💬 Ask me about **PHP Laravel**
+### 🚀 Some of my recent projects:
+- [Project 1: **sewamobilbali.co.id**](https://github.com/IGedeMiarta/sewamobilbali)
+- [Project 2: **siabsensi.com**](https://github.com/IGedeMiarta/siabsensi)
+- [Project 3: **baliexperience.co.id**](https://github.com/IGedeMiarta/baliexperience)
 
-- 📫 How to reach me **miarta.igede@gmail.com**
+### 📈 GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=IGedeMiarta&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/igede-miarta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igede-miarta" height="30" width="40" /></a>
-<a href="https://fb.com/miarta.yaza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miarta.yaza" height="30" width="40" /></a>
-<a href="https://instagram.com/@mrt.ys_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrt.ys_" height="30" width="40" /></a> 
-</p>
-<div class="row">
-  <div class="column" syle="width:50%">
-      <p align="center">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=igedemiarta&show_icons=true&locale=en&layout=compact" alt="igedemiarta" width="300px">
-      </p>
-  </div>
-  <div class="column" syle="width:50%">
-    <p align="center">
-      &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=igedemiarta&show_icons=true&locale=en" alt="igedemiarta" width="400px" />
-    </p>
-  </div>
-</div> 
+### 📫 How to reach me:
+- **Email**: miarta.kodekolektif@gmail.com
+- **LinkedIn**: [linkedin.com/in/igedemiartayasa](https://linkedin.com/in/igedemiartayasa)
 
-
+Let's build something amazing together! 💻✨
