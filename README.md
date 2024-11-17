@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for 
 ### 📫 How to reach me:
 - **Email**: miarta.igede@gmail.com
 - **LinkedIn**: [linkedin.com/in/igedemiartayasa](https://linkedin.com/in/miarta)
-- - **Website**: [miarta.online](https://miarta.online)
+- **Website**: [miarta.online](https://miarta.online)
 
 Let's build something amazing together! 💻✨
