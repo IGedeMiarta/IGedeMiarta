@@ -43,8 +43,8 @@ I enjoy transforming ideas into intuitive and high-performing digital experience
 ### 📫 Get in Touch
 
 - 🌐 [Portfolio](https://buildwithgede.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/igedemiartayasa) *(if available)*  
-- ✉️ Email: **miarta.yasa@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/miarta/)
+- ✉️ [Email](mailto:miarta.igede@gmail.com): **miarta.igede@gmail.com**
 
 ---
 
